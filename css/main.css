@@ -159,7 +159,7 @@ p.lead {
 	color: #888888;
 }
 p.company-description {
-	font-size: 12px;
+	font-size: 1.25rem;
 	font-style: italic;
 	line-height: normal;
 	margin-bottom: 1rem;
@@ -312,6 +312,10 @@ ul.disc li::before {
 	left: -17px;
 	top: 11px;
 	vertical-align: middle;
+}
+ul.role-details {
+	font-size: 1.5rem;
+	line-height: 2rem;
 }
 dt {
 	margin: 0;
