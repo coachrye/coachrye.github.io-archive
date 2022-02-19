@@ -158,6 +158,12 @@ p.lead {
 	line-height: 1.8;
 	color: #888888;
 }
+p.company-description {
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	margin-bottom: 1rem;
+}
 @media only screen and (max-width:768px) {
 	p.lead {
 		font-size: 1.7rem;
