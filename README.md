@@ -15,3 +15,9 @@ Featured:
 Published:
 - https://www.talentese.com/getting-started-on-linkedin/
 
+TODO:
+- [ ] Portfolio
+- [ ] Sign Up section
+- [ ] Services
+- [ ] Counters
+- [ ] Contact
