@@ -13,11 +13,11 @@
 
 ## Featured
 
-- [What’s your ‘Wednesday Resolution’?](https://businessmirror.com.ph/2017/01/24/whats-wednesday-resolution/)
-- [Your Relator Talent: Cultivating Deep, Lasting Relationships](https://www.spreaker.com/user/gallupstrengthscenter/gallup-theme-thursday-season-3-relator)
-- [Focus On Your Strengths](https://www.udemy.com/course/focus-on-your-strengths/)
-- [Conversation with “Coach Rye” about how he uses Evernote](http://clrdigitalmedia.com/conversation-with-coach-rye-about-how-he-uses-evernote-009tedp/)
-- [Scouting service in works](https://www.philstar.com/sports/2013/01/25/900930/scouting-service-works)
+- Jan 2019 [What’s your ‘Wednesday Resolution’?](https://businessmirror.com.ph/2017/01/24/whats-wednesday-resolution/)
+- 2018 [Your Relator Talent: Cultivating Deep, Lasting Relationships](https://www.spreaker.com/user/gallupstrengthscenter/gallup-theme-thursday-season-3-relator)
+- 2017 [Focus On Your Strengths](https://www.udemy.com/course/focus-on-your-strengths/)
+- Jan 2017 [Conversation with “Coach Rye” about how he uses Evernote](http://clrdigitalmedia.com/conversation-with-coach-rye-about-how-he-uses-evernote-009tedp/)
+- 2013 [Scouting service in works](https://www.philstar.com/sports/2013/01/25/900930/scouting-service-works)
 
 ## Published
 
