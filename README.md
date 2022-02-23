@@ -18,9 +18,6 @@
 - [ ] Aug 14, 2020: Inquirer (Resque) - [Startups with growth potential despite COVID-19 win big](https://business.inquirer.net/305212/startups-with-growth-potential-despite-covid-19-win-big#ixzz7LXTj1qPZ)
 - [ ] Jun 27, 2020: MB - [SeeYouDoc Provides Free Telehealth Platform via DOH Partnership](https://mb.com.ph/2020/06/27/seeyoudoc-provides-free-telehealth-platform-via-doh-partnership/)
 
-
-
-
 - [x] Jan 2019 [What’s your ‘Wednesday Resolution’?](https://businessmirror.com.ph/2017/01/24/whats-wednesday-resolution/)
 - [x] 2018 [Your Relator Talent: Cultivating Deep, Lasting Relationships](https://www.spreaker.com/user/gallupstrengthscenter/gallup-theme-thursday-season-3-relator)
 - [x] 2017 [Focus On Your Strengths](https://www.udemy.com/course/focus-on-your-strengths/)
